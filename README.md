@@ -3,6 +3,8 @@
 ### Entry
 - [想找一份遠端工作賺美元？這 6 個網站可以幫到你][R1]
 - [在台灣找日本軟體工作][R4]
+- [Indeed Prime][R11]
+- [Tech Ladies, a community for women in tech][R12]
 
 ### Resume
 - [This Is What A GOOD Resume Should Look Like][R8]
@@ -32,3 +34,5 @@
 [R8]: https://careercup.com/resume
 [R9]: http://www.meetqun.net/forum.php?mod=forumdisplay&fid=36&filter=typeid&typeid=183
 [R10]: https://instant.1point3acres.com/career
+[R11]: https://www.indeed.com/prime
+[R12]: https://www.hiretechladies.com/join/?kid=KVV3Q
